@@ -10,7 +10,7 @@
 - Numpy and Pandas for data manipulation
 - Matplotlib and Seaborn for data visualization
 - scipy.stats for feature scaling
-- sklearn for train_test_split data, building and evaluating the regression models
+- sklearn for train_test_split data, and building and evaluating the regression models
 
 
 ## Dataset
@@ -26,6 +26,17 @@ The Insurance dataset has 1338 observations and 7 attributes and contains medica
 
 
 ## Data Visualization
+While conducting data visualization I looked for answers to the following questions:
+
+- How smoking affects the relationship between BMI and insurance costs?
+- How are the insurance costs influenced by age, gender, and smoking?
+- Are the insurance charges influenced by the number of dependents or region?
+
+Below are some of the visualizations I made:
+
+
+
+
 
 
 
