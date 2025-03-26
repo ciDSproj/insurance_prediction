@@ -28,11 +28,17 @@ The Insurance dataset has 1338 observations and 7 attributes and contains medica
 ## Data Visualization
 While conducting data visualization I looked for answers to the following questions:
 
-- How smoking affects the relationship between BMI and insurance costs?
+- How does smoking affects the relationship between BMI and insurance costs?
 - How are the insurance costs influenced by age, gender, and smoking?
-- Are the insurance charges influenced by the number of dependents or region?
+- Are the insurance charges influenced by the number of dependents or regions?
 
-Below are some of the visualizations I made:
+I made the following visualizations:
+- Distributions of insurance charges and BMI
+- Visualize the outliers for BMI using a boxplot
+- Use a lmplot to examine the linear relationship between Insurance charges and BMI by smoker status and plot the regression lines
+- Explore the relationships between insurance charges and age, smoker status, sex, number of children and region using scatterplots, strip plots, violin and box plots and bar plots.
+
+Some of them are presented below:
 
 
 
