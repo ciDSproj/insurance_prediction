@@ -51,8 +51,8 @@ Some of them are presented below:
 - Check for missing values
 - Detect and remove outliers
 - Discretization: bin variables
-- Category encoding: one-hot encoding
-- Normalize features : min-max normalization
+- Category encoding using one-hot encoding
+- Normalize features
 - Split the data into training and testing sets
 
 
