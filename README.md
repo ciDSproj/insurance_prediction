@@ -2,7 +2,7 @@
 
 
 ## Overview
-
+This project contains data visualization, feature engineering and building a linear regression model for predicting insurance costs using medical personal expenses billed by a health insurance company.
 
 
 ## Resources Used
