@@ -38,7 +38,7 @@ I made the following visualizations:
 - Use a lmplot to examine the linear relationship between Insurance charges and BMI by smoker status and plot the regression lines
 - Explore the relationships between insurance charges and age, smoker status, sex, number of children and region using scatterplots, strip plots, violin and box plots and bar plots.
 
-Some of them are presented below:
+Some of the visualizations are presented below:
 
 
 
