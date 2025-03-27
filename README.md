@@ -42,7 +42,13 @@ Some of the visualizations are presented below:
 
 
 
+![Charges vs BMI](ml2_charges_bmi.png)
+<br/>
 
+
+
+![Charges vs Smoker](ml2_charges_smoker.png)
+<br/>
 
 
 
