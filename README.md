@@ -69,6 +69,7 @@ The models that I built are Linear Regression, Random Forest, and Polynomial Reg
 For each model it was determined:
 -	the intercept and the coefficients
 -	evaluation metrics:  mean absolute error (MAE), mean squared error (MSE), root mean square error (RMSE) and the coefficient of determination (R2 score). 
+
 Polynomial Regression model predicted the best patient's insurance costs, having the highest R2 score of all models.
 
 
