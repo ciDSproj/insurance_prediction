@@ -63,7 +63,7 @@ Some of the visualizations are presented below:
 
 
 ## Build Regression Models
-Using scikit-learn, I built several models to predict the insurance costs and evaluated their fit. 
+Using scikit-learn, I built several models to predict the insurance costs and evaluate their fit. 
 
 The models that I built are Linear Regression, Random Forest, and Polynomial Regression. 
 For each model it was determined:
