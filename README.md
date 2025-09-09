@@ -1,4 +1,4 @@
-# Health Insurance Costs Prediction
+# Health Insurance Prediction
 
 
 ## Overview
